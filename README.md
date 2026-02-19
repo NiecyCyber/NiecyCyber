@@ -1,5 +1,6 @@
 ## Hi, I'm Alicia! 👋
-- g
+I'm currently a Computer Operator and actively working toward becoming a SOC Analyst.
+
 
 <!--
 **NiecyCyber/NiecyCyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
