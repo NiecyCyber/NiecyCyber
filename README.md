@@ -1,6 +1,15 @@
 ## Hi, I'm Alicia! 👋
 I'm currently a Computer Operator and actively working toward becoming a SOC Analyst.
 
+I earned my Bachelor's Degree in Information Technology from KSU, where I built a strong foundation in networking. I'm now expanding that foundation into cybersecurity by completing hands-on labs and structured learning paths on TryHackMe.com
+
+My Primary focus is Defense Security (Blue Team).
+-Threat Detection
+-Log Analysis
+-Security Monitoring
+-Incident Response
+-Network Traffic Analysis
+
 
 <!--
 **NiecyCyber/NiecyCyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
