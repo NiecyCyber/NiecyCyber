@@ -5,15 +5,6 @@ I earned my Bachelor's Degree in Information Technology from KSU, where I built 
 
 My Primary focus is Defense Security (Blue Team).
 
--<b>Threat Detection</b>
-
--<b>Log Analysis</b>
-
--<b>Security Monitoring</b>
-
--<b>Incident Response</b>
-
--<b>Network Traffic Analysis</b>
 
 
 <!--
